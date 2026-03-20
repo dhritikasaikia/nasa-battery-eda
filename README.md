@@ -1,8 +1,8 @@
-# 🔋 NASA Battery EDA
+ NASA Battery EDA
 Exploratory Data Analysis of the NASA PCoE Battery Dataset (B0005–B0018)
 as part of a QUBO-based quantum optimization research series for battery SOH prediction.
 
-## Results
+ Results
 | Battery | Discharge Cycles | Final SOH |
 |---------|-----------------|-----------|
 | B0005   | 168             | ~70%      |
